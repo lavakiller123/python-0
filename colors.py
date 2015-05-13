@@ -22,3 +22,6 @@ green = "\033[0;32m"
 clear = "\033[H\033[2J"
 reset = "\033[0m"
 
+import random
+def random_color():
+    return random.choice([yellow, orange, red, magenta, violet, blue, cyan, green])

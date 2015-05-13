@@ -6,5 +6,5 @@ print(c.blue +'Hi, what is your name?')
 
 name = input('--> ')
 
-print ('Hi, thats a very nice name you have. ' + name )
+print ('Hi, thats a very nice name you have ' + name )
 
